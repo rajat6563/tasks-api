@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test-report": "mocha --reporter mochawesome"
   },
   "keywords": [],
   "author": "Rajat",
@@ -16,6 +17,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "mocha": "^6.2.2"
+    "mocha": "^6.2.2",
+    "mochawesome": "^7.0.1"
   }
 }
