@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rajat",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
