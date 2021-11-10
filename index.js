@@ -19,6 +19,16 @@ const tasks = [
         id: 3,
         name: "Task 3",
         completed: false
+    },
+    {
+        id: 4,
+        name: "Task 4",
+        completed: false
+    },
+    {
+        id: 5,
+        name: "Task 5",
+        completed: true
     }
 ];
 
