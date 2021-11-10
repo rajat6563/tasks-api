@@ -18,12 +18,7 @@ const tasks = [
     {
         id: 3,
         name: "Task 3",
-        completed: false
-    },
-    {
-        id: 4,
-        name: "Task 4",
-        completed: false
+        completed: true
     }
 ];
 
